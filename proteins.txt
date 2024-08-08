@@ -1,33 +1,28 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+HEAD
+HEAD
 PFKM Rat PFKAM_RAT P47858 780
-=======
-<<<<<<< HEAD
+HEAD
 Lysozyme Mouse LYZ1_MOUSE P17897 148
-=======
 Lysozyme Mouse LYZ1_MOUSE P17897 1488
->>>>>>> 46c99790dc2f5e2dba88e92e342c99b9534a77b2
+46c99790dc2f5e2dba88e92e342c99b9534a77b2
 Lysozyme Mouse LYZ1_MOUSE P17897 148
 Lysozyme Chicken LYSC_CHICK P00698
->>>>>>> 21ee0f76b64f6cc83046fefd216a63160e5c3f72
+21ee0f76b64f6cc83046fefd216a63160e5c3f72
 Lysozyme Human LYSC_HUMAN P61626
 Hemoglobin-alpha Human HBA_HUMAN P69905
 Hemoglobin-beta Human HBB_HUMAN P68871
 PFKM Human PFKAM_HUMAN P08237
 Pfkm Mouse PFKAM_MOUSE P4785
-<<<<<<< HEAD
+HEAD
 PFKM Rat PFKAM_RAT P47858 780
-=======
-=======
 Lysozyme Chicken LYSC_CHICK P00698 147
 Lysozyme Human LYSC_HUMAN P61626 148
-<<<<<<< HEAD
+HEAD
 Hemoglobin-ALPHA Human HBA_HUMAN P69905 142
-=======
-Hemoglobin-alpha HUMAN HBA_HUMAN P69905 142
->>>>>>> 46c99790dc2f5e2dba88e92e342c99b9534a77b2
+Hemoglobin-alpha HUMAN HBA_HUMAN P
+46c99790dc2f5e2dba88e92e342c99b9534a77b2
 Hemoglobin-beta Human HBB_HUMAN P68871 147
 PFKM Human PFKAM_HUMAN P08237 780
 Pfkm Mouse PFKAM_MOUSE P47857 780
->>>>>>> protlength
->>>>>>> 21ee0f76b64f6cc83046fefd216a63160e5c3f72
+pro
+21ee0f76b64f6cc83046fefd216a63160e5c3f72
