@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-Lysozyme Mouse LYZ1_MOUSE P17897 148
+Lysozyme Mouse LYZ1_MOUSE P17897 1488
 Lysozyme Mouse LYZ1_MOUSE P17897 148
 Lysozyme Chicken LYSC_CHICK P00698
 Lysozyme Human LYSC_HUMAN P61626
